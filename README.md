@@ -23,7 +23,7 @@
 <section id="sobre">
 <h2>Sobre</h2>
 <figure>
-<img src="https://via.placeholder.com/240" alt="Retrato de Maria sorrindo
+<img src="https://via.placeholder.com/240" alt="Retrato de Helena sorrindo
 de frente.">
 <figcaption>Foto ilustrativa do perfil</figcaption>
 </figure>
