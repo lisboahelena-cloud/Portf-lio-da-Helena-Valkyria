@@ -35,12 +35,12 @@ Gosto de aprender criando projetos simples e práticos na aula de Pensamento Com
   <section id="projetos">
 <h2>Projetos</h2>
 <article>
-<h3>Lista de Hobbies (HTML)</h3>
+<h3>Lista de Hobbies </h3>
 <p>Projeto básico com listas e links.</p>
 
 <ul>
 <li>Lista não ordenada</li>
-<li>Links externos com <code>target="_blank"</code></li>
+<li>Links externos com </li>
 <li>Estrutura semântica</li>
 </ul>
 <p>
@@ -53,7 +53,7 @@ MDN Web Docs
 </article>
 <article>
 <h3>Ideias a longo prazo</h3>
-<p>Estruturação de conteúdo com títulos, parágrafos e imagens.</p>
+<p>Tenho planos de expandir o meu conhecimento artístico </p>
 </article>
 </section>
 <section id="contato">
