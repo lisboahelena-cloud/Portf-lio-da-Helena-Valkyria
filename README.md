@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-</title>Portfólio de Helena Valkyria</title>
+<title>Portfólio de Helena Valkyria</title>
 <meta name="description" content="Portfólio simples feito em HTML puro.">
 </head>
 <body>
@@ -35,11 +35,11 @@ Gosto de aprender criando projetos simples e práticos na aula de Pensamento Com
   <section id="projetos">
 <h2>Projetos</h2>
 <article>
-<h3>Lista de Tarefas (HTML)</h3>
+<h3>Lista de Hobbies (HTML)</h3>
 <p>Projeto básico com listas e links.</p>
 
 <ul>
-<li>Lista não ordenada (bullet points)</li>
+<li>Lista não ordenada</li>
 <li>Links externos com <code>target="_blank"</code></li>
 <li>Estrutura semântica</li>
 </ul>
@@ -52,7 +52,7 @@ MDN Web Docs
 </p>
 </article>
 <article>
-<h3>Página de Receitas</h3>
+<h3>Ideias a longo prazo</h3>
 <p>Estruturação de conteúdo com títulos, parágrafos e imagens.</p>
 </article>
 </section>
@@ -60,11 +60,11 @@ MDN Web Docs
 <h2>Contato</h2>
 <form action="#" method="post">
 <p>
-<label for="nome">Nome</label><br>
+<label for="nome">Lena</label><br>
 <input id="nome" name="nome" type="text" required>
 </p>
 <p>
-<label for="email">E-mail</label><br>
+<label for="email">lisboa.helena@escola.pr.gov</label><br>
 <input id="email" name="email" type="email" required>
 </p>
 <p>
@@ -79,7 +79,7 @@ required></textarea>
 </section>
 </main>
 <footer>
-<small>&copy; 2025 Maria Silva. Todos os direitos reservados.</small>
+<small>&copy; 2025 Helena Valkyria. Todos os direitos reservados.</small>
 </footer>
 </body>
 </html>
